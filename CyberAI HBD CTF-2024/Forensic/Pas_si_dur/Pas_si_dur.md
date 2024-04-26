@@ -6,7 +6,7 @@
 
 > Instruction
 
-![Instruction Challenge Pas si dur](challenge_Pas-si-dur.png)
+![Instruction Challenge Pas si dur](Pas-si-dur-challenge.png)
 
 > Resource
 
