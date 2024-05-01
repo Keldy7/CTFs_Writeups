@@ -41,6 +41,6 @@ $ echo "UOQ_{7H_I015_DH3_P37417_51ZC13}" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
 ## 3. Flag
     
-    ```
-        HBD{7U_V015_QU3_C37417_51MP13}
-    ```
+```
+HBD{7U_V015_QU3_C37417_51MP13}
+```
