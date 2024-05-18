@@ -5,7 +5,7 @@
 
 ## 1. Instruction
 
-![pci challenge](https://github.com/Keldy7/CTFs_Writeups/assets/93558050/9f2fd875-2b3f-4eef-8065-7216b4353fac)
+![PCI challenge](https://github.com/Keldy7/CTFs_Writeups/assets/93558050/9f2fd875-2b3f-4eef-8065-7216b4353fac)
 
 ## 2. Solution
 
