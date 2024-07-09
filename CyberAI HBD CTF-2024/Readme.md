@@ -1,6 +1,6 @@
 ## CyberAI HBD CTF
 
-On the occasion of his birthday, [Parfait TOLEFO](https://www.linkedine.com/in/tlf-parfait/), winner of the CTF-CAF 2024 competition,has organized a CTF competition to allow all Cybersecurity challenge fanatics to have fun.
+On the occasion of his birthday, [Parfait TOLEFO](https://www.linkedine.com/in/tlf-parfait/), winner of the CTF-CAF 2024 competition,has organized a CTF competition to allow all Cybersecurity challenge fanatics to have fun
 
 > My actual rank
 
