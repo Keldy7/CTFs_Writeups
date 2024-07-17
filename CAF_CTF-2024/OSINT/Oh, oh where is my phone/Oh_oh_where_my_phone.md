@@ -6,7 +6,7 @@
 
 > Instruction
 
-![Instruction Challenge Steg2](challenge_Oh_oh_where_my_phone.png)
+![Instruction Challenge Steg2](challenge_oh_oh_where_my_phone.png)
 
 > Resource
 
