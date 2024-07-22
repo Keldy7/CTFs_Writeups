@@ -6,7 +6,7 @@
 
 > Instruction
 
-![Instruction Challenge Zipline](challenge_Zipline.png)
+![Instruction Challenge Zipline](challenge_ZipLine.png)
 
 > Resource
 
