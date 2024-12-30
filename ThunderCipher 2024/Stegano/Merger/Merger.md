@@ -23,7 +23,9 @@ To start, the zipped folder is uncompressed to reveal its contents. Inside, we f
 exiftool Note/*.jpg
 ```
 
-From the metadata, a particular property, Camera Model Name, stands out. Each image has a unique value for this property, suggesting it holds significant information. Given the challenge's title, Merger, it becomes apparent that these values must be concatenated to form a coherent string.
+From the metadata, a particular property, **Camera Model Name**, stands out. Each image has a unique value for this property, suggesting it holds significant information. Given the challenge's title, Merger, it becomes apparent that these values must be concatenated to form a coherent string.
+
+![Merged strings](https://github.com/user-attachments/assets/a27bb6f7-e2dd-4920-a120-ae83641a984b)
 
 Upon merging the values from all the images, we obtain a string that is encoded in Base64. Recognizing this encoding pattern, which is common in CTF challenges, we proceed to decode it using the base64 tool:
 
