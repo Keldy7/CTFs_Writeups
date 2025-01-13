@@ -5,4 +5,7 @@
 
 Join the event discord server: https://discord.gg/4mQP8Tk3JE
 
+![CTF website](https://github.com/user-attachments/assets/8fe5f32a-5f1d-4f2f-8473-48475032e834)
+
+
 This folder will contain writeups for interesting practice challenges.<br>
