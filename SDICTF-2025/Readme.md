@@ -7,4 +7,4 @@ This repository contains challenges from the SDI CTF 2025 competition. The chall
 
 <br>
 
-![SDICTF_2025 Dashboard](https://github.com/user-attachments/assets/83ff594e-4c34-4744-9522-2f9628e13041)
+![SDICTF_2025 Dashboard](https://github.com/user-attachments/assets/152f3be0-f241-4487-81b8-027c9833575a)
